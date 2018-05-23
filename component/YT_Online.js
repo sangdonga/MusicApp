@@ -60,6 +60,6 @@ const styles=StyleSheet.create({
         flex:1,
         alignItems:'center',
         justifyContent:'center',
-        marginLeft:Dimensions.get('window').width/2 - 10
+        marginLeft:Dimensions.get('window').width/2 - 20
     }
 })
